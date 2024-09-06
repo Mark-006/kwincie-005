@@ -4,11 +4,11 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **e-commerce**
+- 🔭 I’m currently working on **web portal**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently doing projects **JAVA AND C#**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **web portal and system development **
 
 - 📫 How to reach me **kiniumark3@gmail.com**
 
