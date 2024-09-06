@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **skinnykwincie@gmail.com**
+- 📫 How to reach me **kiniumark3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
